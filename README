@@ -1,0 +1,2 @@
+Please unzip the data.csv.zip file to access the kaggle spotify data
+main.ipynb must be run before app.ipynb inorder to create and save the model
